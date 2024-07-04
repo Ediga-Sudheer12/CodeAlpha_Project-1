@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+}
+
+#calculator {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+#calculator label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+#calculator select,
+#calculator button {
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+  display: block;
+  width: 100%;
+}
+
+#result {
+  font-weight: bold;
+}
